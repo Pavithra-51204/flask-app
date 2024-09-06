@@ -91,13 +91,6 @@ This repository contains a sample Python Flask application that is deployed usin
 - **Public IP Address**: By default, Elastic Beanstalk provides a URL for your application. Configure security groups and load balancer settings to control access.
 - **Scaling and Resources**: Adjust auto-scaling and instance types based on your application's needs.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-[Your Name] - [Your Contact Information]
 
 
 
